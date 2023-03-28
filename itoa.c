@@ -1,5 +1,4 @@
-
-#include "holberton.h"
+#include "main.h"
 
 /**
  * itoa - integer to ascii
